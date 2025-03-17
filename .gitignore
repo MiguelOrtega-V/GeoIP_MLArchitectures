@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Propios del proyecto
+__pycache__/
+new_campaign_measurements.csv
+Validation-Datasets/
+Learning-Datasets/
+tmp/
